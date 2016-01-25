@@ -4,6 +4,7 @@ Coding Standards
 The coding standards that I use in my projects
 
 * [HTML](#)
-* [PHP](#)
+* [CSS](css.md)
 * [JavaScript](#)
+* [PHP](#)
 * [Database](#)
